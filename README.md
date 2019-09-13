@@ -1,0 +1,2 @@
+# SmitBot
+Bot by Smiteno
